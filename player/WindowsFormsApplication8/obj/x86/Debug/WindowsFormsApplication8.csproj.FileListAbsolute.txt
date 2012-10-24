@@ -1,0 +1,9 @@
+c:\users\chain\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.exe
+c:\users\chain\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\bin\Debug\WindowsFormsApplication8.pdb
+c:\users\chain\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\chain\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.Form1.resources
+c:\users\chain\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.Properties.Resources.resources
+c:\users\chain\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\chain\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\chain\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.exe
+c:\users\chain\documents\visual studio 2010\Projects\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.pdb
