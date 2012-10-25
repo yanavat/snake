@@ -108,5 +108,12 @@ namespace WindowsFormsApplication8.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        internal static System.Drawing.Bitmap The_Winner {
+            get {
+                object obj = ResourceManager.GetObject("The_Winner", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
