@@ -1,0 +1,58 @@
+private void power1_Click(object sender, EventArgs e)
+       {
+           if (button4.Enabled == true)
+           {
+
+           }
+           else
+           {
+               if (button1.Enabled == false)
+               {
+
+               }
+
+               else
+               {
+                   if (s == 0)
+                   {
+
+                   }
+                   else
+                   {
+                       s = s * 2;
+                       power1.Visible = false;
+                   }
+               }
+           }
+           
+       }
+
+       private void power2_Click(object sender, EventArgs e)
+       {
+           if (button4.Enabled == true)
+           {
+
+           }
+           else{
+           if (button2.Enabled == false)
+
+           {
+
+           }
+
+           else
+           {
+               if (s == 0)
+               {
+
+               }
+               else
+               {
+                   s = s * 2;
+                   power2.Visible = false;
+               }
+           }
+       }
+           
+       }
+    }
